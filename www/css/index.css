@@ -1,0 +1,21 @@
+#mainBox {
+    width: 60%;
+    margin: 30px auto;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.med-font {
+    font-size: medium;
+}
+
+#profileImage {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
